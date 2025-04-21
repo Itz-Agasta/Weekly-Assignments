@@ -5,7 +5,7 @@ and solve their assignments effectively with the best solutions possible.
 ## Repository Structure
 The assignments are organized in main folders by categories, with each category containing its assignment solutions.
 ```bash
-IEM-Python-Weekly-Assignments/ 
+Python-Weekly-Assignments/ 
 │ ├── Lab assigment/ 
 │ │   ├── week1.py 
 │ │   ├── week2.py 
