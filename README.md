@@ -1,6 +1,5 @@
-# IEM Python Weekly Assignments
-This repository contains solutions to weekly Python assignments for IEM (Institute of Engineering and Management) - 
-UEM (University of Engineering & Management) college students. The goal is to help future juniors understand 
+# Python Weekly Assignments
+This repository contains solutions to weekly Python assignments for college students. The goal is to help future juniors understand 
 and solve their assignments effectively with the best solutions possible.
 
 ## Repository Structure
